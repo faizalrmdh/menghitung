@@ -1,5 +1,5 @@
 # menghitung
-[08.40, 9/10/2024] Faizall: #include <iostream>
+ #include <iostream>
 using namespace std;
 
 int main() {
@@ -24,4 +24,4 @@ int main() {
 	cout << "Jumlah total bilangan ganjil: " << jumlahGenap << endl;
 
 }
-[08.40, 9/10/2024] Faizall: 
+ 
